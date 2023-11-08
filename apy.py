@@ -1,7 +1,5 @@
 import math
-#Convert APY (calculated with the assumption of continious compound) into simple daily interest and actual return 
-
-
+#Convert APY (calculated with the assumption of compound) into simple daily interest and actual return 
 
 APY = user_input = float(input("Enter APY in %: "))/100
 P = user_input = float(input("Enter Principal: "))
